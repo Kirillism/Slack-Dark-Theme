@@ -1,5 +1,3 @@
-![logo](https://raw.githubusercontent.com/earlduque/Slack-Dark-Theme/master/brand-assets/slack-dark-theme-logo.png)
-
 ## How to add the dark theme to slack
 
 1) Locate Slack's `ssb-interop.js` file
